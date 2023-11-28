@@ -1,4 +1,5 @@
 module.exports = {
+  "react/prop-types": 0,
   root: true,
   env: { browser: true, es2020: true },
   extends: [
