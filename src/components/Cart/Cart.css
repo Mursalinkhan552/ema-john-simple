@@ -6,3 +6,13 @@
     position: sticky;
     top: 0;
 }
+.btn-clear-cart{
+    width: 100%;
+    margin: 10px auto;
+    background-color: #FF3030;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
